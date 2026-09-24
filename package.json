@@ -1,0 +1,8 @@
+{
+  "name": "wayfarer-travel-booking",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack travel booking starter with persistent JSON storage and optional SMS notifications",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
